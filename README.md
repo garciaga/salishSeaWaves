@@ -5,7 +5,7 @@ Reduced dataset to reproduce results from Yang et al (20XX) currently under revi
 Abstract will be added after the peer review process has concluded. 
 
 ## Authors
-* [Zhaoqing Yang](https://marine.pnnl.gov/staff/staff_info.asp?staff_num=971)(Zhaoqing.Yang@pnnl.gov)
+* [Zhaoqing Yang](https://marine.pnnl.gov/staff/staff_info.asp?staff_num=971)
 * [Gabriel García Medina](https://marine.pnnl.gov/staff/staff_info.asp?staff_num=3290)
 * [Wei-Cheng Wu](https://marine.pnnl.gov)
 * [Taiping Wang](https://marine.pnnl.gov)
