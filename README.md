@@ -1,5 +1,5 @@
 # salishSeaWaves
-Reduced dataset to reproduce results from Yang et al (20XX) currently under review on Journal of Geophysical Research - Oceans. 
+Reduced dataset to reproduce results from Yang et al (20XX) currently under review on Estuarine, Coastal and Shelf Science. 
 
 ## Abstract
 Abstract will be added after the peer review process has concluded. 
